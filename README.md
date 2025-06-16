@@ -22,7 +22,13 @@ Follow these steps to run the project locally:
 - npm (or yarn)
 
 ### Installation
-```bash
+bash
 git clone https://github.com/pralhad-saw/Stopwatch-in-React.git
 cd Stopwatch-in-React
 npm install
+
+### Run the App
+bash
+npm start
+
+###Open https://localhost:3000 in your browser to use Stopwatch....
